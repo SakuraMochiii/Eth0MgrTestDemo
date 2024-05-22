@@ -1,12 +1,9 @@
 ## Overview
 
-`Eth0MgrTestDemo` The system provides the AIDL interface to set the static Ethernet parameters, When
-connect the service,the package name is com.wizarpos.wizarviewagentassistant, and the class name is
-com.wizarpos.wizarviewagentassistant.Eth0MgrService.
-
-Permission
-The application declares the following permissions in the manifest：
-android.permission.CONNECTIVITY_INTERNAL
+`Eth0MgrTestDemo`
+This system provides the AIDL interface to set the static Ethernet parameters. When connected to the service, the package name is com.wizarpos.wizarviewagentassistant, and the class name is com.wizarpos.wizarviewagentassistant.Eth0MgrService.
+Permissions: 
+The application declares the following permissions in the manifest：android.permission.CONNECTIVITY_INTERNAL
 
 ## Features
 
